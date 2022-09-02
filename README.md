@@ -1,4 +1,4 @@
-# NextJS 
+# NextJS project template built with TypeScript and TailwindCSS
 
 ## Getting Started
 
